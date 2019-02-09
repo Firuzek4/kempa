@@ -10,12 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Przemo robi loda");
+            Console.WriteLine("Przemo robi loda w "+ new Program().oko());
             Console.ReadKey();
             // bal bla bla
         }
-        public void oko() {
-
+        public string oko() {
+            return "oko";
         }
     }
 }
