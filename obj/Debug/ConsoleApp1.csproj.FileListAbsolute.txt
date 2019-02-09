@@ -1,0 +1,7 @@
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\bin\Debug\ConsoleApp1.exe
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\bin\Debug\ConsoleApp1.pdb
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\obj\Debug\ConsoleApp1.exe
+C:\Users\tomasz.firuzek\OneDrive - PREFORMED LINE PRODUCTS\Pulpit\egzamin\kempa\obj\Debug\ConsoleApp1.pdb
